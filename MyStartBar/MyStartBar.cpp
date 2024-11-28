@@ -89,7 +89,7 @@ void SortProcesses() {
 		"devenv.exe",
 		"unity.exe",
 		"p4v.exe",
-		"forticlient.exe"
+		"forticlient.exe",
 		"mstsc.exe",
 		"chrome.exe",
 		"notepad.exe",
